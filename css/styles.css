@@ -1,5 +1,9 @@
 
 /* background color classes */
+.gray {
+  background-color: gray;
+}
+
 .red {
   background-color: red;
 }
@@ -15,7 +19,7 @@
   height: 150px;
   width: 200px;
   margin: 10px;
-  background-color: gray;
+  /*background-color: gray;*/
 }
 
 .box-selected {
